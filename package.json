@@ -24,6 +24,9 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "vue": "^3.2.20"
+    "@tensorflow/tfjs": "^3.10.0",
+    "@tensorflow/tfjs-vis": "^1.5.1",
+    "vue": "^3.2.20",
+    "vue-router": "4"
   }
 }
